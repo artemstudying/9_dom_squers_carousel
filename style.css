@@ -1,0 +1,17 @@
+.square {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  margin: 10px;
+  display: inline-block;
+  cursor: pointer;
+  background-color: white;
+}
+
+.queue {
+  height: 100%;
+  width: 100px;
+  margin-top: 10px;
+  border: solid 2px black;
+  cursor: pointer;  
+}
